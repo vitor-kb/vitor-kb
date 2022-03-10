@@ -1,5 +1,7 @@
 ## Olá! Me chamo Vitor Bassani😀
-## Bem vindo ao meu perfil do GitHub
+<div>
+<h3>Bem vindo ao meu perfil do Github!</h3>
+</div>
 
 - 🔭 Atualmente estudando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript, HTML e CSS
