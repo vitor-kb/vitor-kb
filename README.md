@@ -22,5 +22,5 @@
  	<a href="https://www.twitch.tv/sh4dows1" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorbassani1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-kawamura-bassani-1b2a2b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a><img height="28" src="https://img.shields.io/github/followers/vitor-kb.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
+  <a href="https://github.com/vitor-kb"><img height="28" src="https://img.shields.io/github/followers/vitor-kb.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
 </div>
