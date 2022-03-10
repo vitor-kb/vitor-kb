@@ -1,4 +1,4 @@
-## Olá! Me chamo Vitor Bassani😀
+## Olá! Me chamo Vitor 😀
 <div>
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
