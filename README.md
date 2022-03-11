@@ -6,7 +6,7 @@
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript, HTML e CSS
 - 💡 Interessado em Desenvolvimento Mobile, Web
-- 🎯 Próximas tecnologias que pretendo estudar: Typescript, Cloud Computing
+- 🎯 Próximas tecnologias que pretendo estudar: TypeScript, Cloud Computing
 
 <div align="center">
   <a href="https://github.com/vitor-kb">
