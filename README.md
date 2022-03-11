@@ -10,7 +10,6 @@
 <div align="center">
   <a href="https://github.com/vitor-kb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-kb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-kb&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div align="center"><br>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,3 +26,6 @@
   <a href="https://www.linkedin.com/in/vitor-kawamura-bassani-1b2a2b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/vitor-kb?tab=followers"><img height="28" src="https://img.shields.io/github/followers/vitor-kb.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
 </div>
+
+##
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=vitor-kb&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-kb" /> </p>
