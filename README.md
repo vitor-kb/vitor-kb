@@ -3,9 +3,10 @@
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
 
-- 🔭 Atualmente estudando Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript, HTML e CSS
-- 😄 Pronouns: ele/dele
+- 💡 Interessado em Desenvolvimento Mobile, Web
+- 🎯 Próximas tecnologias que pretendo estudar: Typescript, Cloud Computing
 
 <div align="center">
   <a href="https://github.com/vitor-kb">
