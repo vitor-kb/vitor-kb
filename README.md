@@ -3,8 +3,8 @@
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas 2/5
-- 🌱 Estudando JavaScript, HTML e CSS
+- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas 3/5
+- 🌱 Estudando Java, JavaScript, HTML e CSS
 - 💡 Interessado em Desenvolvimento Mobile, Web
 - 🎯 Próximas tecnologias que pretendo estudar: TypeScript e React
 
