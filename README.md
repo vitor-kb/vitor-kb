@@ -3,8 +3,9 @@
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
 
-- 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas 4/5
-- 🌱 Estudando Java, JavaScript, HTML e CSS
+- 🔭 Atualmente cursando Pós Graduação em Full Stack Development - 1/10
+- 🎓Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando Java, JavaScript, HTML, CSS e TypeScript
 - 💡 Interessado em Desenvolvimento Mobile, Web
 - 🎯 Próximas tecnologias que pretendo estudar: TypeScript e React
 
