@@ -4,8 +4,8 @@
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
 
-- 🔭 Atualmente cursando Pós Graduação em Full Stack Development - 1/10
-- 🎓Formado em Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente cursando Pós Graduação em Full Stack Development na FIAP- 1/10
+- 🎓Formado em Análise e Desenvolvimento de Sistemas - UAM
 - 🌱 Estudando Java, JavaScript, HTML, CSS e TypeScript
 - 💡 Interessado em Desenvolvimento Mobile, Web
 - 🎯 Próximas tecnologias que pretendo estudar: Swift e Kotlin
