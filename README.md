@@ -4,19 +4,18 @@
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
 
-- 🔭 Atualmente cursando Pós Graduação em Full Stack Development na FIAP- 1/10
+- 🔭 Atualmente cursando Pós Graduação em Full Stack Development na FIAP- 10/10
 - 🎓Formado em Análise e Desenvolvimento de Sistemas - UAM
-- 🌱 Estudando Java, JavaScript, HTML, CSS e TypeScript
+- 🌱 Estudando TypeScript, React e Tailwind CSS
 - 💡 Interessado em Desenvolvimento Mobile, Web
 - 🎯 Próximas tecnologias que pretendo estudar: Swift e Kotlin
 
-<!--
+
 <div align="center">
   <a href="https://github.com/vitor-kb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-kb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-kb&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
--->
+
   <div align="center">
   <h3>Techs</h3>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
