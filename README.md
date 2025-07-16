@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente cursando Pós Graduação em Full Stack Development na FIAP- 10/10
 - 🎓Formado em Análise e Desenvolvimento de Sistemas - UAM
-- 🌱 Estudando e Aplicando em meu dia a diaJavaScript, TypeScript, React, React Native, shadcn, Python, PHP e Tailwind CSS
+- 🌱 Estudando e Aplicando em meu dia a dia: JavaScript, TypeScript, React, React Native, shadcn, Python, PHP e Tailwind CSS
 - 💡 Interessado em Desenvolvimento Mobile, Web
 - 🎯 Próximas tecnologias que pretendo estudar: Swift e Kotlin
 
