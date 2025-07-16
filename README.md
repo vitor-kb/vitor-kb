@@ -1,5 +1,4 @@
-# Olá! Me chamo Vitor 😀
-## Full Stack Developer
+# Olá! Me chamo Vitor, sou um Full Stack Developer 👋
 <div>
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
