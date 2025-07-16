@@ -9,9 +9,6 @@
 - 🌱 Estudando e Aplicando em meu dia a dia: JavaScript, TypeScript, React, React Native, shadcn, Python, PHP e Tailwind CSS
 - 💡 Interessado em Desenvolvimento Mobile, Web
 - 🎯 Próximas tecnologias que pretendo estudar: Swift e Kotlin
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vitor-kb&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-kb"/> </p>
-
 <div align="center">
   <h3 align="center">Contato</h3>
   <a href="https://www.linkedin.com/in/vitor-bassani-1b2a2b190/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
