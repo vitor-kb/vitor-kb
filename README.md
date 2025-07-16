@@ -41,4 +41,6 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=vitor-kb&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-kb"/> </p>
 
 ##
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/vitor-kb/vitor-kb/output/snake.svg" alt="Snake animation" />
