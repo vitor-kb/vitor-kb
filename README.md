@@ -1,4 +1,5 @@
 # Olá! Me chamo Vitor, sou um Desenvolvedor Full Stack 👋
+
 <div>
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
@@ -9,8 +10,18 @@
 - 💡 Interessado em Desenvolvimento Mobile, Web
 - 🎯 Próximas tecnologias que pretendo estudar: Swift e Kotlin
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vitor-kb&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-kb"/> </p>
 
 <div align="center">
+  <h3 align="center">Contato</h3>
+  <a href = "mailto:vitorbassani1@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
+  <a href="https://www.linkedin.com/in/vitor-bassani-1b2a2b190/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+</div>
+
+##
+
+<div align="center">
+  <h3>Status</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=vitor-kb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-kb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -88,17 +99,7 @@
 
 ###
 </div>
-
-##
-  <div align="center"> 
-  <a href = "mailto:vitorbassani1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-bassani-1b2a2b190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/vitor-kb?tab=followers"><img height="28" src="https://img.shields.io/github/followers/vitor-kb.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
-</div>
-
-##
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=vitor-kb&label=Profile%20views&color=0e75b6&style=flat" alt="vitor-kb"/> </p>
-
+  
 ##
 <br clear="both">
 
