@@ -4,8 +4,7 @@
 <h3>Bem vindo ao meu perfil do Github!</h3>
 </div>
 
-- 🔭 Atualmente cursando Pós Graduação em Full Stack Development na FIAP- 10/10
-- 🎓Formado em Análise e Desenvolvimento de Sistemas - UAM
+- 🎓 Pós Graduado em Full Stack Development na FIAP e Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi
 - 🌱 Estudando e Aplicando em meu dia a dia: Java, Apex, JavaScript, TypeScript, React, React Native, shadcn, Python, PHP e Tailwind CSS
 - 💡 Interessado em Desenvolvimento Mobile, Web
 - 🎯 Próximas tecnologias que pretendo estudar: Swift e Kotlin
